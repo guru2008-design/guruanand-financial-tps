@@ -1,0 +1,23 @@
+guruanand-financial-tips/
+│
+├── index.html
+├── about.html
+├── financial-tips.html
+├── investments.html
+├── blog.html
+├── videos.html
+├── contact.html
+│
+├── css/
+│   ├── style.css
+│   ├── animations.css
+│   └── responsive.css
+│
+├── js/
+│   ├── script.js
+│   ├── charts.js
+│   └── calculator.js
+│
+├── images/
+├── icons/
+└── assets/
